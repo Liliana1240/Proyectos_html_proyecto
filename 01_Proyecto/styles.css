@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@600&family=Rubik:wght@600&display=swap');
+
+body, html{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header{
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(93,9,121,1) 35%, rgba(0,212,255,1) 100%);
+font-family: 'Rubik', sans-serif;
+}
+
+.mi-logo{
+    width: 200px;
+    height: 100px;
+}
+
+.nar-bar{
+    float: right;
+    background-color: brown;
+}
+
+.list-element{
+    color: blue;
+    text-decoration: none;
+    list-style: none;
+}
+
+.contenedor{
+color: blueviolet;
+font-size: 30px;
+}
+
+.mi-foto{
+    width: 150px;
+    height: 150px;
+    border: 2px;
+    box-shadow: 3px 3px 5px #888;
+}
